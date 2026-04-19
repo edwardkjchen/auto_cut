@@ -8,3 +8,6 @@ pose_landmarker_lite.task
 processed
 processed_20260403
 __pycache__
+*.png
+*.MOV
+*.mp4
